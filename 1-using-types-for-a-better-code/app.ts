@@ -130,11 +130,3 @@ let canAlsoBeNull;
 canAlsoBeNull = null;
 let canThisBeAny: null = null;
 // canThisBeAny = 7;
-
-
-
-
-
-
-
-
