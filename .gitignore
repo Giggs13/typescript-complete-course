@@ -1,2 +1,4 @@
 /node_modules/
-/package-lock.json
+/10-using-typescript-together-with-reactjs/node_modules/
+.idea/inspectionProfiles/
+.idea/workspace.xml

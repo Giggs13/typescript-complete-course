@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports._PI = Math.PI;
-function calculateCircumference(diameter) {
-    return diameter * exports._PI;
+export var _PI = Math.PI;
+export function calculateCircumference(diameter) {
+    return diameter * _PI;
 }
-exports.calculateCircumference = calculateCircumference;
